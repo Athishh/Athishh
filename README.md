@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Athishh/Athishh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hey There! 👋</h1>
+<h3>🌟 I'm Athish, a High School student, Software Engineer and Game Designer! 💻🎮 Passionate about crafting high-performance, scalable software and games. 🚀</h3>
+
+- 🚀 I’m currently working on **Dynamic-Scaling Architecture for Minigames Servers** 🏖
+- 📚 I’m currently learning **C/C++ & Kotlin**
+- 🏝 I’m also interested in **System/Server Administration 👩‍💻  & Theoretical Software Applications 🧪**
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+<!-- Java -->
+ <a href="https://www.java.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="100" height="100"/>  
+<!-- Lua -->
+ <a href="https://www.lua.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg" width="100" height="100"/>  
+ <!-- Python -->
+ <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="100"/>  
+<!-- IntelliJ -->
+ <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="100" height="100"/>  
+<!-- VSCode -->
+ <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100" height="100"/>  
+<!-- Redis -->
+ <a href="https://redis.io/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width="100" height="100"/>  
+<!-- Mongo -->
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="100" height="100"/>  
+</a></p>
