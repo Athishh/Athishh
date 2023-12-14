@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey There! 👋</h1>
 <h3>🌟 I'm Athish, a High School student, Software Engineer and Game Designer! 💻🎮 Passionate about crafting high-performance, scalable software and games. 🚀</h3>
 
-- 🚀 I’m currently working on **Dynamic-Scaling Architecture for Minigames Servers** 🏖
+- 🚀 I’m currently working on **Lotus Duels Core** 🌸
 - 📚 I’m currently learning **C/C++ & Kotlin**
 - 🏝 I’m also interested in **System/Server Administration 👩‍💻  & Theoretical Software Applications 🧪**
 
