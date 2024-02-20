@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 <h1 align="center">Hey There! 👋</h1>
 <h3>🌟 I'm Athish, a High School student, Software Engineer and Game Designer! 💻🎮 Passionate about crafting high-performance, scalable software and games. 🚀</h3>
 
-- 🚀 I’m currently working on **Lotus Duels Core** 🌸
+- 🚀 I’m currently working on **Baphomet** | **An advanced Java Program Loader & Security System**
 - 📚 I’m currently learning **C/C++ & Kotlin**
 - 🏝 I’m also interested in **System/Server Administration 👩‍💻  & Theoretical Software Applications 🧪**
+
+<h1 align="center">About me</h1>
+<div align="center">I used to be an avid video game player ever since the age of 4! I especially enjoyed the game minecraft & soon transitioned from playing for fun to just diving into the more technical aspects of it.
+For quite a while, I was in the multiplayer scene where I would hop from server to server as a developer. I started my own software development group 'Resonos Studios' & on it's behalf created many
+commission based Plugins for various clients, It is from here where I developed an addiction for performance optimizations & scalable software. Going out of my to come up with , develop & test the fastest
+implementations of features I found useful. Now I spend my free time on learning math & diving into the technical side of games rather than playing them 😅
+</div>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
