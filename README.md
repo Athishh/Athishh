@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3>🌟 I'm Athish, a High School student, Software Engineer and Game Designer! 💻🎮 Passionate about crafting high-performance, scalable software and games. 🚀</h3>
 
 - 🚀 I’m currently working on **Baphomet** | **An advanced Java Program Loader & Security System**
-- 📚 I’m currently learning **C/C++ & Kotlin** , Pre/Post Quantum Cryptography
+- 📚 I’m currently learning **C/C++ & Kotlin** , **Pre/Post Quantum Cryptography**
 - 🏝 I’m also interested in **System/Server Administration 👩‍💻  & Theoretical Software Applications 🧪**
 - 🎩 I’m looking to collaborate on new & unique ideas!
 
